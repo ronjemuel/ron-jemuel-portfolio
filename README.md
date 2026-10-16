@@ -4,15 +4,6 @@ A five-page student developer portfolio built with HTML, CSS, and JavaScript.
 
 **Live website:** https://ron-jemuel-portfolio.vercel.app/
 
-## Run locally
-
-From the repository root:
-
-```sh
-python -m http.server 8000
-```
-
-Open http://localhost:8000/. No package installation, build step, API keys, or backend is required.
 
 ## Files
 
